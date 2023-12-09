@@ -10,13 +10,21 @@
 - ⚡ Skilled in integrating MongoDB for efficient and flexible data storage in web applications.
 - 🔐 Familiar with Firebase for real-time database functionality and secure user authentication.
 
+## ✅ I have experience with the following technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,react,tailwind,mongodb,nodejs," />
+  </a>
+</p>
+
 
 ## 📊 Current Status
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juwel36&theme=dark)
 
-
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juwel36&theme=default" alt="GitHub Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juwel36&theme=default&utcOffset=8" alt="Productive Time">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juwel36&theme=dark" alt="GitHub Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juwel36&theme=dark&utcOffset=8" alt="Productive Time">
 </p>
+

@@ -14,3 +14,9 @@
 ## 📊 Current Status
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juwel36&theme=dark)
+
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juwel36&theme=default" alt="GitHub Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juwel36&theme=default&utcOffset=8" alt="Productive Time">
+</p>

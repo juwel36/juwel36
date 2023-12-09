@@ -29,7 +29,7 @@
    
   </a>
   <a href="https://www.facebook.com/profile.php?id=100034658690721&mibextid=LQQJ4d"  target="_blank">
-    <img src="https://i.ibb.co/KhMk4tP/pngwing-com-8.png" width="40" style="margin-left: 50px;" alt="Facebook">
+    <img src="https://i.ibb.co/KhMk4tP/pngwing-com-8.png" width="50" style="margin-left: 50px;" alt="Facebook">
    
   </a>
 </p>
